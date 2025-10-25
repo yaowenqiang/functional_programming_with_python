@@ -2,3 +2,4 @@
 
 > imperative has state changes
 
+> python -c 'import this'
